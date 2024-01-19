@@ -5,7 +5,6 @@ fields:
             en: Tracking Codes
             cs: Měřící kódy
         type: headline
-        numbered: false
         help:
             en: Be sure to only paste code from trusted sources.<br><br>If you're using the <strong>Cookie Consent</strong> plugin set <code>type="text/plain"</code> and <code>data-cookiecategory="{category}"</code> attributes to any script tag you want it to manage.<br>Default categories are <code>"preferences", "analytics" & "marketing"</code><br><a href="https://github.com/orestbida/cookieconsent#how-to-blockmanage-scripts" target="_blank">More info here</a>
             cs: Před vložením kódu se ujistěte, že pochází z důvěryhodného zdroje.<br><br>Pokud na webu  používáte <strong>Cookie Consent</strong>, nastavte každému scriptu, který má plugin spravovat, atributy <code>type="text/plain"</code> a <code>data-cookiecategory="{category}"</code>.<br>Výchozí kategorie jsou <code>"preferences", "analytics" & "marketing"</code><br><a href="https://github.com/orestbida/cookieconsent#how-to-blockmanage-scripts" target="_blank">Více informací zde</a>
@@ -42,3 +41,5 @@ fields:
         spellcheck: false
         size: tiny
         translate: false
+    tracking_codes_gap:
+        type: gap

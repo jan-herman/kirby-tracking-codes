@@ -4,7 +4,7 @@ use Kirby\Cms\App as Kirby;
 
 Kirby::plugin('jan-herman/tracking-codes', [
     'blueprints' => [
-        'settings/tracking-codes' => __DIR__ . '/blueprints/settings/tracking-codes.yml',
+        'sections/settings/tracking-codes' => __DIR__ . '/blueprints/tracking-codes.yml',
     ],
     'snippets' => [
         'tracking-codes/head' => __DIR__ . '/snippets/head.php',

@@ -1,9 +1,10 @@
 {
     "name": "jan-herman/kirby-tracking-codes",
-    "description": "Add tracking codes to your Kirby website.",
-    "version": "1.0.0",
+    "description": "Add tracking codes support to your Kirby website.",
+    "version": "1.0.1",
     "type": "kirby-plugin",
     "license": "MIT",
+    "homepage": "https://github.com/jan-herman/kirby-tracking-codes",
     "authors": [
         {
             "name": "Jan Herman",
