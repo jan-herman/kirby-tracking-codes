@@ -1,3 +1,3 @@
 <?php
 
-echo $site->tracking_codes_body_start();
+echo $site->settings()->tracking_codes_body_start();

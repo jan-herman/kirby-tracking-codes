@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.0.0] - 2025-07-22
+### Added
+- 💥 Breaking change: Uses $site->settings() instead of $site 💥
+- `jan-herman/kirby-shared-blueprints` as dependency (settings page)
+
+
 ## [1.2.0] - 2025-07-21
 ### Fixed
 - revert to v.1.0.2 (v.1.1.0 introduced breaking change for some websites)
