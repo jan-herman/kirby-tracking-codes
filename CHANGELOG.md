@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.0] - 2025-07-21
+### Fixed
+- revert to v.1.0.2 (v.1.1.0 introduced breaking change for some websites)
+
+
 ## [1.1.0] - 2025-07-15
 ### Added
 - support for `jan-herman/kirby-shared-blueprints` v.2.10.0 (settings page)
